@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(205, 203, 204) ;
+    padding-top: 100px;
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 44px;
+    letter-spacing: 2px;
+    color: #000000;
+}
+
+.clock {
+    font-size: 48px;
+    padding: 30px;
+    border: 2px solid lavender;
+    border-radius: 10px;
+    background-color: lavender;
+    display: inline-block;
+    
+}
+
+#time {
+    margin-top: 20px;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
